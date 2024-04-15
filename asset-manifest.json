@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FortniteCart/static/css/main.7e217eae.css",
+    "main.js": "/FortniteCart/static/js/main.3c170fdc.js",
+    "index.html": "/FortniteCart/index.html",
+    "main.7e217eae.css.map": "/FortniteCart/static/css/main.7e217eae.css.map",
+    "main.3c170fdc.js.map": "/FortniteCart/static/js/main.3c170fdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e217eae.css",
+    "static/js/main.3c170fdc.js"
+  ]
+}
